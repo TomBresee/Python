@@ -1,6 +1,6 @@
 
 
-University of Michigan - Data Manipulation (SIADS 505) 
+Advanced Python
 #######################################################
 
 
@@ -12,7 +12,7 @@ University of Michigan - Data Manipulation (SIADS 505)
 
 **What is this ?**  
 
-The following github repo contains course information for the University of Michigan's 'Data Manipulation' class
+The following github repo contains python files that are intermediate level
 
 
 |
@@ -26,8 +26,6 @@ The following github repo contains course information for the University of Mich
 
 
 |
-|
-|
 
 Intro
 =========
@@ -39,8 +37,6 @@ Pandas
   The de-facto standard for data manipulation in python
 
 
-|
-|
 |
 
 
@@ -54,24 +50,6 @@ Pandas
 
 
 |
-|
-|
-
-
-
-Background
-==============
-
-A
-B
-C
-
-
-|
-|
-|
-|
-|
 
 
 
@@ -84,29 +62,9 @@ Our Approach
   
 
 |
-|
 
 
 
-
-If we do this efficiently, we can keep the processing optimized in batch processing:
-
-.. class:: no-web
-
-
-    .. image:: .\ENTER\images\rainbow.png
-        :alt: HTTPie in action
-        :width: 100%
-        :align: center
-
-
-.. class:: no-web no-pdf
-
-
-
-|
-|
-|
 
 
 
@@ -143,8 +101,6 @@ FASTQ   FASTQ files contain billions of entries and are about 90-100 gigabytes i
 
 
 
-
-
 |
 |
 |
@@ -171,165 +127,17 @@ Course Book
 
 
 
-Coursera
--------------
-
-
-* `Main Coursera Tree <https://rlnntjke.coursera-apps.org/tree>`_  — Main tree 
-
-* `Coursera Help <https://learner.coursera.help/>`_  — Coursera’s Technical Support (24/7)
-
-
-
-
-|
-
-
-Scala
---------
-
-
-* `Scala <https://www.scala-lang.org/>`_
-  — the main website for Scala.  There is no getting around it.  You want to push the envelope, you must learn Scala...
-
-
-
-|
-|
-|
-
-
-
-**Jupyter Notebooks**
-=========================
-
-Working notebooks...
-
-|
-
-Jupyter Notebook Links
-------------------------
-
-I can keep this here or somewhere else, not sure yet 
-
-
-|
-
-* `Databricks Overview notebook <https://rawcdn.githack.com/TomBresee/The_Spark_Genome_Project/4602f11ee09c4c08f8844f57ae6aaca9f9858470/ENTER/working_notebooks/overview_001_f.html>`_
-  — **Start Here**  
-
-
-
-* `Pain <https://nbviewer.jupyter.org/github/TomBresee/The_Spark_Genome_Project/blob/master/ENTER/working_notebooks/Hail%200.2%20Tutorial%20-%20Databricks.ipynb>`_
-  — the notebook that almost killed me
-
-  *  `html version <https://rawcdn.githack.com/TomBresee/The_Spark_Genome_Project/18102831c1efb315f88e75407d26efc2000928bd/ENTER/working_notebooks/Hail%200.2%20Tutorial%20-%20Databricks.html>`_
-
-|
-
-* `Direct link to all working notebooks via nbviewer front end <https://nbviewer.jupyter.org/github/tombresee/The_Spark_Genome_Project/tree/master/ENTER/working_notebooks/>`_
-
-
-
-
-
-
-
-|
-|
-|
-
-
 
 Appendix - A
 =====================================================
 
 
-
-.. class:: no-web
-
-
-    .. image:: https://raw.githubusercontent.com/TomBresee/The_Spark_Genome_Project/master/ENTER/images/screengrab.png
-        :alt: HTTPie in action
-        :width: 100%
-        :align: center
-
-.. class:: no-web no-pdf
-
-
-
 |
 |
 |
 |
 |
 |
-
-
-
-
-
-.. class:: no-web
-
-
-    .. image:: https://raw.githubusercontent.com/TomBresee/The_Spark_Genome_Project/master/ENTER/images/spark-map-transformation-operation.gif 
-        :alt: HTTPie in action
-        :width: 100%
-        :align: center
-
-
-.. class:: no-web no-pdf
-
-
-|
-
-
-.. class:: no-web
-
-
-    .. image:: https://raw.githubusercontent.com/TomBresee/The_Spark_Genome_Project/master/ENTER/images/dna_rotating.gif
-        :alt: HTTPie in action
-        :width: 100%
-        :align: center
-
-.. class:: no-web no-pdf
-
-
-
-|
-|
-
-.. class:: no-web
-
-
-    .. image:: https://raw.githubusercontent.com/TomBresee/The_Spark_Genome_Project/master/ENTER/images/tom2.gif
-        :alt: HTTPie in action
-        :width: 100%
-        :scale: 20
-        :align: right
-
-
-.. class:: no-web no-pdf
-
-
-
-|
-
-
-
-.. class:: no-web
-
-
-    .. image:: https://raw.githubusercontent.com/TomBresee/The_Spark_Genome_Project/master/ENTER/images/purple.jpg 
-        :alt: HTTPie in action
-        :width: 100%
-        :align: center
-
-
-.. class:: no-web no-pdf
-
-
-
 
 
 
